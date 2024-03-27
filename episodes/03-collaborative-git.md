@@ -20,8 +20,6 @@ exercises: 2
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Collaborative version control with git and Github
-#### Timing
-3:00 hours
 
 ### Instructor notes
 Teaching is done as a pair of instructors. 
@@ -39,6 +37,8 @@ First we show the centralized workflow all in the browser using Github:
 * Instructor B merges the pull request. 
 * Use Github repo’s insights -> network to visualize what just happened 
 
+::::::::::::::::::::::::::::::::::::::: challenge
+
 ### Exercise: Working as a project collaborator (in pairs):
 #### Part 1
 - PERSON A: Create an issue in the repository
@@ -47,6 +47,7 @@ First we show the centralized workflow all in the browser using Github:
 - PERSON B: Make the changes requested in the issue
 - PERSON B: Push the changes to the remote repository on GitHub
 - PERSON B: submit a Pull Request, refer to the issue (e.g. "Closes #1")
+  
 #### Part 2
 - PERSON A: Review the Pull Request
 - PERSON B: Address the comments
@@ -54,9 +55,17 @@ First we show the centralized workflow all in the browser using Github:
 - PERSON B: Merge the Pull Request
 - (Optionally) Learn about [protecting branches](https://docs.github.com/en/github/administering-a-repository/about-protected-branches) and try it out. 
 
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: solution
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ### Distributed workflow
 Second we show distributed workflow. All in the browser using Github:
-* Instructor A removes instructor B (Sven & Jens will love it if you play out a funny reason why instructor B needs to be kicked out)
+* Instructor A removes instructor B
 * Instructor B now submits an issue
 * Instructor A responds to issue asking instructor B to pick it up
 * Instructor B forks repo, does some changes, and submits PR
