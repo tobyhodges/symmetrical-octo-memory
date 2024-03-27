@@ -24,7 +24,7 @@ complete the initial configuration of a new lesson repository built from this te
 1. **Make sure GitHub Pages is activated:**
    navigate to _Settings_,
    select _Pages_ from the left sidebar,
-   and make sure that `gh-pages` is selected as the branch to build from.
+   and make sure that `gh-pages` is selected as the branch to build from.ß
    If no `gh-pages` branch is available, check _Actions_ to see if the first
    website build workflows are still running.
    The branch should become available when those have completed.
