@@ -7,7 +7,7 @@ Although the `config.yaml` states the life cycle stage as pre-alpha, **the templ
 
 ## Create a new repository from this template
 
-To use this template to start a new lesson repository, 
+To use this template to start a new lesson repository
 make sure you're logged into Github.   
 Visit https://github.com/carpentries/workbench-template-rmd/generate
 and follow the instructions.
