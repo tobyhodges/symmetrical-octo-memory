@@ -61,7 +61,8 @@ contact: 'team@carpentries.org' # FIXME
 episodes: 
 - introduction.md
 - 01-basics.md
-- 03-collaborative-git.md
+- 03-collaborative-git-centralized.md
+- 03-collaborative-git-distributed.md
 
 # Information for Learners
 learners: 
