@@ -23,7 +23,6 @@ exercises: 60
 Teaching is done as a pair of instructors. 
 Instructor A acts as the owner of the repository, instructor B as a collaborator (internal or external).
 
-### Centralized workflow
 First we show the centralized workflow all in the browser using Github: 
 
 * instructor A creates an issue (for example create ‘sum’ function)
@@ -54,21 +53,11 @@ First we show the centralized workflow all in the browser using Github:
 
 ::::::::::::::::::::::::::::::::::::::: solution
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-### Key Points
-* Git and Github are superpowerful, not just for version control, but as tools for collaborative development
-* Do code reviews and be constructive in them!
-* Use centralized flow for internal collaborations
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
-
-- Centralized workflow is good for internal collaborations
-
-
+* Git and Github are superpowerful, not just for version control, but as tools for collaborative development
+* Do code reviews and be constructive in them!
+* Use centralized flow for internal collaborations
 ::::::::::::::::::::::::::::::::::::::::::::::::::

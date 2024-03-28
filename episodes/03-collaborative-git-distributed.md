@@ -22,9 +22,7 @@ exercises: 60
 Teaching is done as a pair of instructors. 
 Instructor A acts as the owner of the repository, instructor B as a collaborator (internal or external).
 
-::: instructor
-### Distributed workflow
-Second we show distributed workflow. All in the browser using Github:
+Now we show distributed workflow. All in the browser using Github:
 
 * Instructor A removes instructor B
 * Instructor B now submits an issue
@@ -52,16 +50,9 @@ Second we show distributed workflow. All in the browser using Github:
 
 ::::::::::::::::::::::::::::::::::::::: solution
 
-
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Key Points
-
-* Use distributed flow for external collaborations
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
-
-- Distributed workflow is good for external collaborations
-
+* Use distributed flow for external collaborations
 ::::::::::::::::::::::::::::::::::::::::::::::::::
